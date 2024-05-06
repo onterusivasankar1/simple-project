@@ -1,0 +1,13 @@
+.body{
+  background-image: url("background.png");
+  background-repeat: repeat;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.hr{
+  border-top: 5px solid rgb(38, 0, 255);
+}
